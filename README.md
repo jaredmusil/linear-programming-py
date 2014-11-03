@@ -13,5 +13,5 @@ Installation
 No install is required. A portable version of Python is included in the program files. To run the program double click the launch-app shortcut.
 
 If you would like a fancy icon for the program do the following after placing the executable somewhere static:
-[ Rightclick launch-app.ink --> Properties --> Change Icon... --> Browse to included icon.ico file ].
+[ Rightclick launch-app.ink --> Properties --> Change Icon --> Browse to included icon.ico file ].
 The app will run just fine sans-fancy icon however.
