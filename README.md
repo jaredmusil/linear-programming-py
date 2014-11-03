@@ -1,34 +1,17 @@
-iawsc-data-toolbox
-==================
+linear-programming-gui
+======================
 
 What is it?
 -----------
 
-The IAWSC data toolbox is a wrapper program for several command line scripts. Most of these scripts 
-have very specific instructions on how to use them. By combining them into a single program, many of the 
-small gotcha's can be avoided. Hopefully this helps save time and sanity.
+This progam will eventually provide a nice easy to use front end for linear programming and optimization problems. The aim of this is to lower the learning curve required to make use of this valuable technique. My hope is that it will allow users to branch into more complex LP tools such as the Microsoft Excel solver and beyond.
 
 
 Installation
 ------------
 
-No install is required. A portable version of Python and R is included in the program files. To run the program double click the launch-app shortcut.
+No install is required. A portable version of Python is included in the program files. To run the program double click the launch-app shortcut.
 
 If you would like a fancy icon for the program do the following after placing the executable somewhere static:
 [ Rightclick launch-app.ink --> Properties --> Change Icon... --> Browse to included icon.ico file ].
 The app will run just fine sans-fancy icon however.
-
-Documentation
--------------
-
-The documentation on the individual scripts can be found within the program. A generic overview of 
-the individual scripts can be found on the Help tab while script specific information can be found 
-on the tabs Instruction box.
-
-Version
--------
-
-The most up to date version is 0.6
-
-- Fixed bug where program would crash if output files are not moved. The program now overwrites existing files.
-- The help tab instructions were improved and a few grammar mistakes corrected.
